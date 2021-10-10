@@ -1,0 +1,15 @@
+.task-input {
+    margin-top: 20px;    
+}
+.task-input input {
+    width: 332px;
+    height: 50px;
+}
+.task-input button {    
+    width: 60px;
+    height: 56px;
+    cursor: pointer;
+}
+.task-input button:hover {    
+    background-color: darkslateblue;
+}
